@@ -1,0 +1,15 @@
+Order which tables get data from first to last:
+
+1. Jazik
+2. Email-Grupa
+3. Galerija
+4. Kadministrator
+5. Email
+6. Mailing
+7. Email-poraka
+8. Galerija-opis
+9. Galerija-slika
+10.Kdokument
+11.Knovnost
+
+I promise if this whole list is wrong i missed the part of the lecture where the priority of data was mentioned, so by logic i sorted this list using the primary and foreign keys as help. I hope the list is somewhat correct and not completely random. 
